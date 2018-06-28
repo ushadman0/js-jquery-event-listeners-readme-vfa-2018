@@ -16,7 +16,7 @@ function pressIt() {
     }
   })
 }
-function 
+function submitIt()
 $(document).ready(function(){
 
 // call functions here
