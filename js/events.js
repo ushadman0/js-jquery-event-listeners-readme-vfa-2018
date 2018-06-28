@@ -1,11 +1,11 @@
 //define functions here
 function getIt() {
   $('p').on('click', function() {
-    alert('hey!')
+    alert('Hey!')
   })
 }
 function 
-$(document).ready(function(){
+$(document).ready(function() {
 
 // call functions here
 
