@@ -4,7 +4,9 @@ function getIt() {
     alert('Hey!')
   })
 }
-function frameIt() 
+function frameIt() {
+  
+}
 $(document).ready(function(){
 
 // call functions here
