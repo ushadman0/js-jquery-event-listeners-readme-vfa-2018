@@ -17,7 +17,7 @@ function pressIt() {
   })
 }
 function submitIt() {
-  $('form').on('submit', function(e))
+  $('form').on('submit', function(e)
 }
 $(document).ready(function(){
 
