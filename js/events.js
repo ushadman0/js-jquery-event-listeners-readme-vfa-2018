@@ -4,7 +4,7 @@ function getIt() {
     alert('Hey!')
   })
 }
-function 
+function frame
 $(document).ready(function(){
 
 // call functions here
